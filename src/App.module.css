@@ -1,0 +1,20 @@
+.main {
+    margin-top: 18vh;
+    border: 1px solid rgb(220,220,220);
+    border-radius: 12px; 
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 400px) {
+    .main {
+        width: 320px;
+    }
+}
+
+@media (min-width: 401px) {
+    .main {
+        width: 450px;
+    }
+}
