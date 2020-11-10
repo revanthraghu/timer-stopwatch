@@ -1,5 +1,6 @@
 # Timer and Stopwatch
 A clone of the google timer and stopwatch. [Click here](https://www.google.com/search?q=timer) to see google timer. 
+<br/>
 [Link to project demo](https://timer-stopwatch.netlify.app/)
 ## Overview
 The project has 2 tabs:
